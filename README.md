@@ -1,6 +1,6 @@
 # Classic Pacman - Java Edition v2.0
 
-1980 年のアーケード版パックマンを Java Swing と Maven で忠実に再現し、現代的な拡張機能を追加したゲームです。
+1980 年のアーケード版パックマンを Java Swing と Maven で忠実に再現し、現代的な拡張機能を追加したゲームです。。
 
 ## 新機能（v2.0）
 
